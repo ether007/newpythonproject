@@ -1,2 +1,2 @@
 # newpythonproject
-this is ether project
+This is ether project
